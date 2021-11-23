@@ -3,7 +3,7 @@
 
 Git Config comandos:
 *git config > Usado para configuração do git
-*git config --global user.email sam@google.com > Configurar e-mail de usuario no Git
+*git config --global user.email CTD03@google.com > Configurar e-mail de usuario no Git
 
 Git init comandos:
 *git init > Usado para criar um novo repositório GIT.
