@@ -1,5 +1,5 @@
-# Aula1GitT3
-* Aula de Git e GitHub
+# Git principais comandos
+* Git
 
 Git Config comandos:
 *git config > Usado para configuração do git
