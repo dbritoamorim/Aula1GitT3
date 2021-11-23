@@ -107,13 +107,13 @@ Git archive comandos:
 *git archive --format=tar master > Permite criar um arquivo ZIP ou TAR com os componentes de um repositório.
 
 Git prune comandos:
-*git prune > Arquivos sem marcação de entrada são excluidos (Não entendi ver com o professor)
+*git prune > Arquivos sem marcação de entrada são excluidos.
 
 Git fsck comandos:
 *git fsck > Verifica a integridade do sistemas de arquivos Git, usado para verificar arquivos corrompidos.
 
 Git rebase comandos:
- *git rebase master > Usado para a reaplicação de arquivos em outra branch. (Tbm não entendi ver com o professor).
+ *git rebase master > Usado para a reaplicação de arquivos em outra branch.
 
 
 
